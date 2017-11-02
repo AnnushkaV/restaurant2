@@ -1,0 +1,60 @@
+.padding0 {
+  padding:0;
+}
+
+#owl-demo .item {
+  margin:3px;
+}
+
+#owl-demo .item img {
+  display:block;
+  width:100%;
+  height:auto;
+}
+
+#chef {
+  background-position:100%;
+  background-repeat:no-repeat;
+}
+
+.delicious h2 {
+  text-shadow:0 4px 6px rgba(16, 16, 16, 0.75);
+}
+
+#call_us {
+  text-align:center;
+}
+
+.call_us .jumbotron {
+  border-radius:5px;
+}
+
+.our_features .h4, .our_features h4 {
+  display:inline-block;
+  margin-left:26px;
+  vertical-align:bottom;
+  margin-bottom:0;
+}
+
+.our_features .img_wrap {
+  display:inline-block;
+  vertical-align:bottom;
+  /*align-items:flex-end;*/
+  /*align-content:flex-start;*/
+  height:70px;
+  width:70px;
+  position:relative;
+}
+
+.img_wrap img {
+  /*display:flex;*/
+  /*align-items:flex-end;*/
+  position:absolute;
+  bottom:0;
+  right:0;
+}
+
+.chef .chef_name {
+  display:inline-block;
+}
+
